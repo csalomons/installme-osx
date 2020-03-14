@@ -91,7 +91,7 @@ pip3 install --user neovim
 
 ## Get dotfiles repo
 cd ~/Documents/repos/
-git clone https://github.com/csalomons/dotfiles.git
+git clone git@github.com:csalomons/dotfiles.git
 
 
 ## Setup symlinks
