@@ -49,8 +49,6 @@ ln -s ~/repos/nave/nave.sh ~/bin/nave
 nave install latest
 nave use latest
 
-# OSX native apps
-brew tap caskroom/cask
 
 function installcask() {
     brew cask install "${@}" 2> /dev/null
